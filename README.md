@@ -1,5 +1,7 @@
-# Circuito_Digital_Agucate_32x32
-Con ayuda de la herramienta Logisim, se diseñan circuitos secuenciales como una matriz de 32x32 para, dadas ciertas posiciones, se muestre en el Display de 32x32 la imagen de un Aguacate y junto con el cicuito del Joystick, el cual se puede mover en 4 direcciones, la imagen se puede desplazar.
+# Circuito_Digital_Agucate
+
+Durante la materia "Diseño Digital", se realizaron 4 parciales con el próposito de desarrollar habilidades con los circuitos digitales, de esta forma, se recran hasta las estructuras simples como complejas con ayuda de la herramienta Logisim.
 
 
+## Parcial 4
 <img src="Aguacate.JPG" width="881" height="416">
