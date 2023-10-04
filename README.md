@@ -4,7 +4,7 @@ Durante la materia "Diseño Digital", se realizaron 4 parciales con el próposit
 
 ## Parcial 2
 ### Punto 1
-<img src="Parcial 2/Mux_Demux.png" width="440" height="208">
+<img src="Parcial 2/Mux_Demux.png" width="480" height="300">
 
 ### Punto 2
 <img src="Parcial 2/operaciones.png" width="440" height="208">
@@ -13,4 +13,4 @@ Durante la materia "Diseño Digital", se realizaron 4 parciales con el próposit
 <img src="Parcial 3/Aguacate.JPG" width="440" height="208">
 
 ## Parcial 4
-<img src="Parcial 4/Juego.png" width="440" height="230">
+<img src="Parcial 4/Juego.png" width="460" height="300">
