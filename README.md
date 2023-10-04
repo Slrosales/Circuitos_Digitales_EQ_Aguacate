@@ -13,4 +13,4 @@ Durante la materia "Diseño Digital", se realizaron 4 parciales con el próposit
 <img src="Parcial 3/Aguacate.JPG" width="440" height="208">
 
 ## Parcial 4
-<img src="Parcial 4/Juego.png" width="440" height="208">
+<img src="Parcial 4/Juego.png" width="440" height="230">
