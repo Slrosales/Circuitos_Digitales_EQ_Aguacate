@@ -1,4 +1,16 @@
-# Diseño Digital de Circuitos
+<div align="center">
+  <h1>
+    Diseño Digital 202310 "Equipo Aguacate"
+  </h1>
+
+
+
+ [![GitHub](https://img.shields.io/badge/by-Slrosales-red)](https://github.com/Slrosales)
+ [![GitHub](https://img.shields.io/badge/by-Rubens1414-green)](https://github.com/Rubens1414)
+     
+</div>
+
+# 
 
 Durante la materia "Diseño Digital", se realizaron 4 parciales con el próposito de desarrollar habilidades con los circuitos digitales, de esta forma, se recran hasta las estructuras simples como complejas con ayuda de la herramienta Logisim.
 
